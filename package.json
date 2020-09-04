@@ -10,7 +10,7 @@
     "framer-motion": "^1.9.1",
     "immer": "^6.0.1",
     "lodash": "^4.17.15",
-    "react": "0.0.0-experimental-8b155d261",
+    "react": "0.14.0",
     "react-dom": "0.0.0-experimental-8b155d261",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.1.2",
